@@ -13,7 +13,14 @@ Za pomocą klawiatury użytkownik może wybrać operację, którą chce przetest
 - Odczyt elementów po indeksie (dla list)
 - Zliczanie czasu wykonania operacji
 
+## Wyniki
 Wyniki są wyświetlane:
 - W konsoli
 - Lub zapisywane do pliku csv
 Projekt został realizowany w ramach przedmiotu GUI podczas 2 semestru na Polsko Japońskiej Akademii Technik Komputerowych
+
+## Autor
+sono20
+
+## Licencja
+Projekt został realizowany na przedmiocie GUI podczas 2 semestru PJATK
